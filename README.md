@@ -36,7 +36,7 @@ This project is a visual representation of the Solar System, built using HTML an
 
 ## Download
 
-[Download the Solar System Project](https://github.com/sainamit/solar-system-visualisation.git)
+[Download the Solar System Project](https://github.com/sainamit/solar-system-visualisation)
 
 ## Credits
 
